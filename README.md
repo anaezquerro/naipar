@@ -1,6 +1,6 @@
-# Better Benchmarking LLMs for Zero-Shot Parsing:mushroom: 
+# Better Benchmarking LLMs for Zero-Shot Parsing :mushroom: 
 
-Hi:wave:! This is a Python implementation of the uninformed baselines and zero-shot parsers used in our paper :memo:[Better Benchmarking LLMs for Zero-Shot Parsing](https://dspace.ut.ee/items/a8ed5397-ee52-4f32-a86d-a130e9926cbc).
+Hi :wave:! This is a Python implementation of the uninformed baselines and zero-shot parsers used in our paper :memo:[Better Benchmarking LLMs for Zero-Shot Parsing](https://dspace.ut.ee/items/a8ed5397-ee52-4f32-a86d-a130e9926cbc).
 
 ## Installation 
 
