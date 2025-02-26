@@ -16,7 +16,7 @@ or
 python3.8 -m pip install -r requirements.txt
 ```
 
-Some uninformed baselines require the [Linear Arrangement Library (LAL)](https://cqllab.upc.edu/lal/), so you might need to follow the installation steps from the [official repository](https://github.com/LAL-project/python-interface/). We also provided in the [docs](docs/) folder the guides to this library. For simplicity, we provide at [env.zip](env.zip) a compressed file with the Miniconda environment, so you only need to unzip it and locate it at your [~/miniconda3/envs/](~/miniconda3/envs/) folder.
+Some uninformed baselines require the [Linear Arrangement Library (LAL)](https://cqllab.upc.edu/lal/), so you might need to follow the installation steps from the [official repository](https://github.com/LAL-project/python-interface/). We also provided in the [docs](docs/) folder the guides to this library. For simplicity, we provide at [env.tar.gz](https://drive.google.com/file/d/1R15IaJ5NB2V82xQ6SVeplXJ7F65DcZo8/view?usp=sharing) a compressed file with the Miniconda environment, so you only need to unzip it and locate it at your [~/miniconda3/envs/](~/miniconda3/envs/) folder.
 
 ## Reproducibility
 
